@@ -1,2 +1,0 @@
-# datacamp-hw-files
-homework
